@@ -1,0 +1,201 @@
+{
+    "nodes": [  {
+        "name": "Interest",
+        "group": 3
+    }, {
+        "name": "Validation",
+        "group": 3
+    }, {
+        "name": "Affection",
+        "group": 3
+    }, {
+        "name": "Gratitude",
+        "group": 3
+    }, {
+        "name": "Peace",
+        "group": 3
+    }, {
+        "name": "Excitement",
+        "group": 3
+    }, {
+        "name": "Pride",
+        "group": 3
+    }, {
+        "name": "Humor",
+        "group": 3
+    }, {
+        "name": "Tense Humor",
+        "group": 6
+    }, {
+        "name": "Tension",
+        "group": 6
+    }, {
+        "name": "Fear",
+        "group": 6
+    }, {
+        "name": "Sadness",
+        "group": 6
+    }, {
+        "name": "Frustration",
+        "group": 6
+    }, {
+        "name": "Anger",
+        "group": 6
+    }, {
+        "name": "Contempt",
+        "group": 6
+    }, {
+        "name": "Domineering",
+        "group": 6
+    }, {
+        "name": "Belligerence",
+        "group": 6
+    }, {
+        "name": "Defensiveness",
+        "group": 6
+    }, {
+        "name": "Disgust",
+        "group": 6
+    }, {
+        "name": "Stonewalling",
+        "group": 6
+    }, {
+        "name": "Whining",
+        "group": 6
+    }, {
+        "name": "Shame",
+        "group": 6
+    }, {
+        "name": "Guilt",
+        "group": 6
+    }, {
+        "name": "Embarrassment",
+        "group": 6
+    }, {
+        "name": "Neutral",
+        "group": 2
+    }],
+    "links": 
+    [
+   {
+        "source": 7,
+        "target": 5,
+        "value": 2
+    },
+    {
+        "source": 5,
+        "target": 5,
+        "value": 4
+    },
+    {
+        "source": 5,
+        "target": 1,
+        "value": 2
+    },
+    {
+        "source": 1,
+        "target": 5,
+        "value": 1
+    },
+    {
+        "source": 5,
+        "target": 7,
+        "value": 1
+    },
+    {
+        "source": 1,
+        "target": 0,
+        "value": 7
+    },
+    {
+        "source": 0,
+        "target": 0,
+        "value": 30
+    },
+    {
+        "source": 0,
+        "target": 2,
+        "value": 2
+    },
+    {
+        "source": 2,
+        "target": 0,
+        "value": 2
+    },
+    {
+        "source": 0,
+        "target": 5,
+        "value": 1
+    },
+    {
+        "source": 5,
+        "target": 0,
+        "value": 1
+    },
+    {
+        "source": 0,
+        "target": 1,
+        "value": 6
+    },
+    {
+        "source": 1,
+        "target": 1,
+        "value": 8
+    },
+    {
+        "source": 1,
+        "target": 2,
+        "value": 3
+    },
+    {
+        "source": 0,
+        "target": 11,
+        "value": 1
+    },
+    {
+        "source": 11,
+        "target": 0,
+        "value": 1
+    },
+    {
+        "source": 2,
+        "target": 1,
+        "value": 2
+    },
+    {
+        "source": 0,
+        "target": 8,
+        "value": 1
+    },
+    {
+        "source": 8,
+        "target": 1,
+        "value": 1
+    },
+    {
+        "source": 1,
+        "target": 3,
+        "value": 1
+    },
+    {
+        "source": 3,
+        "target": 0,
+        "value": 1
+    },
+    {
+        "source": 0,
+        "target": 7,
+        "value": 1
+    },
+    {
+        "source": 7,
+        "target": 7,
+        "value": 1
+    },
+    {
+        "source": 7,
+        "target": 1,
+        "value": 1
+    }
+]
+}
